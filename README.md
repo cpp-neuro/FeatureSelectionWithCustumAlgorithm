@@ -2,6 +2,7 @@
 
 Feature Selection with multiple classifier
 
+the first column is the class and  the rest of the columns are the data in the cvs file
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
